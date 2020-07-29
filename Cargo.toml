@@ -14,4 +14,5 @@ categories = ["no-std", "os"]
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+vga = "0.2.4"
 vga-figures = "0.2.0"
