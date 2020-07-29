@@ -1,0 +1,17 @@
+[package]
+name = "cipherdogs-logo-lib"
+version = "0.1.0"
+authors = ["DEADBLACKCLOVER <deadblackclover@protonmail.com>"]
+description = "Library CipherDogs logo for the operating system"
+edition = "2018"
+license = "GPL-3.0"
+readme = "README.md"
+homepage = "https://github.com/CipherDogs/cipherdogs-logo-lib"
+repository = "https://github.com/CipherDogs/cipherdogs-logo-lib"
+keywords = ["cipherdogs", "no_std"]
+categories = ["no-std", "os"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+vga-figures = "0.2.0"
